@@ -1,0 +1,24 @@
+{
+  "name": "Red Fairy",
+  "manifest_version": 2,
+  "version": "1.3",
+  "theme": {
+    "images": {
+      "theme_frame": "Red Fairy.png"
+    },
+    "colors": {
+      "frame": "rgba(229, 230, 232, 1)",
+      "tab_background_text": "rgba(255, 255, 255, 1)",
+      "toolbar": "rgba(0, 0, 0, 0)",
+      "bookmark_text": "rgba(255, 255, 255, 1)",
+      "toolbar_field": "rgba(219, 125, 152, 0)",
+      "toolbar_field_text": "rgba(255, 255, 255, 1)",
+      "tab_line": "rgba(133, 79, 154, 1)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{bc371188-1dd0-4907-a2b5-492f3bd2832c}"
+    }
+  }
+}
